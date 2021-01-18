@@ -46,3 +46,4 @@ In the first instance, please see the [Wiki](https://github.com/rasta-mouse/Tiki
 - https://www.rythmstick.net/posts/tikitorch/
 
 - Naresh Rupareliya
+- NR Infotech
