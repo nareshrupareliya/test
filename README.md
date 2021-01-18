@@ -47,3 +47,5 @@ In the first instance, please see the [Wiki](https://github.com/rasta-mouse/Tiki
 
 - Naresh Rupareliya Changed
 - NR Infotech
+- Naresh Rupareliya
+- NR Infotech Changed
